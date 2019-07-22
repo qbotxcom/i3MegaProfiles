@@ -1,2 +1,5 @@
 # i3MegaProfiles
-Cura 4 Profiles for the Anycubic I3 Mega
+
+This should be a collection of Anycubic I3 Mega profiles.
+
+
